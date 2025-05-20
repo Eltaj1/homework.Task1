@@ -10,3 +10,5 @@ public class hello {
         return "Hi, go to /mercedes and you will see the best car!";
     }
 }
+
+// Eltaj Sarizada 70453
